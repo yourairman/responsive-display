@@ -1,7 +1,7 @@
 # responsive-display
 Bootstrap-Display
 
-Display property
+<h2>Display property</h2>
 
 Quickly and responsively toggle the display value of 
 components and more with our display utilities. 
