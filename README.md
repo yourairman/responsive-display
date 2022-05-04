@@ -11,18 +11,19 @@ As such, the classes are named using the format:
 
 .d-{value} for xs
 .d-{breakpoint}-{value} for sm, md, lg, xl, and xxl.
-Where value is one of:
-
-none
-inline
-inline-block
-block
-grid
-table
-table-cell
-table-row
-flex
-inline-flex
+<ul> Where value is one of:
 
 
+  <li>none</li>
+<li>inline</li>
+<li>inline-block</li>
+<li>block</li>
+<li>grid</li>
+<li>table</li>
+<li>table-cell</li>
+<li>table-row</li>
+<li>flex</li>
+<li>inline-flex
+</li>
+</ul>
 
